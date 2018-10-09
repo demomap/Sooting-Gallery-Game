@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "486f2b66-da57-4900-a92b-ed40008c6dbd",
+            "Value": {
+                "id": "18eb8859-13c7-48b1-bd91-34289596edbe",
+                "resourcePath": "objects\\object_duck_target\\object_duck_target.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4c1f6c05-aeac-4573-9d81-89a138387b0e",
             "Value": {
                 "id": "470269e3-0854-40d9-aca4-b12ae431a881",
@@ -108,6 +116,14 @@
                 "id": "3a0b1170-2ff8-4d6d-9ed0-8f5498e4c517",
                 "resourcePath": "views\\6f7b4b77-33f8-4f55-b86b-594a7b9fde6a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "754181ae-18f3-4072-b4e3-888bdbdb437b",
+            "Value": {
+                "id": "bf3574fe-e13c-408b-a35c-9c1ec3670909",
+                "resourcePath": "objects\\object4\\object4.yy",
+                "resourceType": "GMObject"
             }
         },
         {
